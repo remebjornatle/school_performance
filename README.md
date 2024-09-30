@@ -2,7 +2,6 @@
 
 The folder contains the code used in the paper "School performance and the social gradient in young adult death in Norway"
 
-Authors:
 Author 1
 Name: Bjørn-Atle Reme (corresponding author),
 Email: bjorn-atle.reme@fhi.no
