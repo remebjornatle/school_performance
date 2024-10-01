@@ -1,6 +1,6 @@
 # school_performance
 
-The zipped folder available for download contains the code used in the paper "School performance and the social gradient in young adult death in Norway"
+The zipped folder named "code" available for download contains the code used in the paper "School performance and the social gradient in young adult death in Norway"
 
 Author 1
 Name: Bjørn-Atle Reme (corresponding author),
